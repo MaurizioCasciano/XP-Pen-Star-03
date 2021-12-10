@@ -1,0 +1,1 @@
+Bus 001 Device 009: ID 28bd:0907  10 inch PenTablet
